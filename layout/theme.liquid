@@ -1,3 +1,4 @@
+{% include 'shogun-content-handler' %}
 {%- comment -%}
 ------------------------------------------------------------------------------------------------------------------------
 NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing this theme as much as we did for
@@ -53,7 +54,9 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
     {{ content_for_header }}
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
-  </head>
+  
+  {% render 'shogun-head' %}
+</head>
 
   <body class="{% if settings.show_page_transition %}page-transition{% endif %} {% if settings.zoom_image_on_hover %}zoom-image--enabled{% endif %}">
     {%- render 'shadow-dom-templates' -%}
