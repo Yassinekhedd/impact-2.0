@@ -167,7 +167,7 @@
       "settings": {
         "full_width": true,
         "text": "SOLEA",
-        "text_size": "large",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
@@ -313,7 +313,7 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "1664424230c4756b0e-1": {
@@ -340,6 +340,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/5df7338a-c316-436b-baf4-5fc29de0ee8f.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -353,7 +354,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/221a609f-b1cd-4e7e-8eac-cf0dd2dd0666.jpg",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -374,7 +376,8 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Ajouterunsous-titre_1.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -395,7 +398,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Ajouterunsous-titre_3.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -416,7 +420,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Vert_et_Blanc_Moderne_Minimaliste_Ete_Projet_Presentation.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
