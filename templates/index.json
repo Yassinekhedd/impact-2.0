@@ -464,6 +464,8 @@
         "subheading": "",
         "title": "Before/after",
         "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/8159c116-f053-490e-b2d4-9f4afc7546ef.jpg",
+        "after_image": "shopify://shop_images/8159c116-f053-490e-b2d4-9f4afc7546ef.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -859,10 +861,10 @@
     "image-with-text-overlay",
     "media-grid",
     "before-after-image",
+    "featured-product",
     "press",
     "hot-spots",
     "multiple-images-with-text",
-    "featured-product",
     "feature-chart",
     "faq"
   ]
