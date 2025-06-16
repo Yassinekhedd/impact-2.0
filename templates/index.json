@@ -148,7 +148,7 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "block_size": "medium",
         "subheading": "",
         "title": "",
@@ -166,7 +166,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "SOLEA",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
