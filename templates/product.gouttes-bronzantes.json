@@ -209,94 +209,6 @@
         "lazy": true
       }
     },
-    "impact_text_jUtnL3": {
-      "type": "impact-text",
-      "blocks": {
-        "item_NNG4rP": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "🌞 bronzes dès la 1ère semaine",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_NNG4rP"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.6,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "scrolling_text_jdqkMA": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "1 ACHETÉ 1 OFFERT !",
-        "text_size": "small",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "impact_text_cWm778": {
-      "type": "impact-text",
-      "blocks": {
-        "item_LhBfTn": {
-          "type": "item",
-          "settings": {
-            "title": "98%",
-            "subheading": "💖 adorent le goût",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 3
-          }
-        }
-      },
-      "block_order": [
-        "item_LhBfTn"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.6,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "impact_text_PGpty7": {
       "type": "impact-text",
       "blocks": {
@@ -332,6 +244,39 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "rich_text_wWgVmA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hgJd4E": {
+          "type": "heading",
+          "settings": {
+            "text": "Bronzé Sans Soleil, C’est Possible.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_RB8px4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgJd4E",
+        "richtext_RB8px4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "main": {
@@ -547,37 +492,108 @@
         "accordion_text_color": ""
       }
     },
-    "rich_text_wWgVmA": {
-      "type": "rich-text",
+    "impact_text_jUtnL3": {
+      "type": "impact-text",
       "blocks": {
-        "heading_hgJd4E": {
-          "type": "heading",
+        "item_NNG4rP": {
+          "type": "item",
           "settings": {
-            "text": "Bronzé Sans Soleil, C’est Possible.",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_RB8px4": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
+            "title": "100%",
+            "subheading": "🌞 bronzes dès la 1ère semaine",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "heading_hgJd4E",
-        "richtext_RB8px4"
+        "item_NNG4rP"
       ],
-      "name": "Rich text",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "scrolling_text_jdqkMA": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉ 1 OFFERT !",
+        "text_size": "small",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "scrolling_text_eJTRFx": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉ 1 OFFERT !",
+        "text_size": "small",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "impact_text_cWm778": {
+      "type": "impact-text",
+      "blocks": {
+        "item_LhBfTn": {
+          "type": "item",
+          "settings": {
+            "title": "98%",
+            "subheading": "💖 adorent le goût",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 3
+          }
+        }
+      },
+      "block_order": [
+        "item_LhBfTn"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "media_grid_y7KmVd": {
@@ -777,15 +793,16 @@
     "slideshow_GzWUgj",
     "rich_text_UEiFwG",
     "video_slider_ATB6AL",
-    "impact_text_jUtnL3",
-    "scrolling_text_jdqkMA",
-    "impact_text_cWm778",
+    "scrolling_text_eJTRFx",
     "impact_text_PGpty7",
+    "rich_text_wWgVmA",
     "main",
     "revealed_image_on_scroll_cL6dRV",
     "slideshow_tBUBqD",
     "accordion_content_gL6DY7",
-    "rich_text_wWgVmA",
+    "impact_text_jUtnL3",
+    "scrolling_text_jdqkMA",
+    "impact_text_cWm778",
     "media_grid_y7KmVd",
     "slideshow_icAYRp",
     "image_link_blocks_i7mRhJ"
