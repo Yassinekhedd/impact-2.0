@@ -50,42 +50,6 @@
         "background_gradient": ""
       }
     },
-    "impact_text_PGpty7": {
-      "type": "impact-text",
-      "blocks": {
-        "item_B8UkKb": {
-          "type": "item",
-          "settings": {
-            "title": "98%",
-            "subheading": "Des clients satisfaits !",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2.2
-          }
-        }
-      },
-      "block_order": [
-        "item_B8UkKb"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.7,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "video_slider_ATB6AL": {
       "type": "video-slider",
       "blocks": {
@@ -210,6 +174,42 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "impact_text_PGpty7": {
+      "type": "impact-text",
+      "blocks": {
+        "item_B8UkKb": {
+          "type": "item",
+          "settings": {
+            "title": "98%",
+            "subheading": "Des clients satisfaits !",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2.2
+          }
+        }
+      },
+      "block_order": [
+        "item_B8UkKb"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.7,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "rich_text_UEiFwG": {
@@ -619,9 +619,9 @@
   },
   "order": [
     "slideshow_GzWUgj",
-    "impact_text_PGpty7",
-    "video_slider_ATB6AL",
     "rich_text_UEiFwG",
+    "video_slider_ATB6AL",
+    "impact_text_PGpty7",
     "revealed_image_on_scroll_cL6dRV",
     "media_grid_y7KmVd",
     "scrolling_text_jdqkMA",
