@@ -470,6 +470,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_ULB7PT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "vendor": {
           "type": "vendor",
           "disabled": true,
@@ -487,6 +493,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -538,6 +545,7 @@
         }
       },
       "block_order": [
+        "liquid_ULB7PT",
         "vendor",
         "title",
         "badges",
