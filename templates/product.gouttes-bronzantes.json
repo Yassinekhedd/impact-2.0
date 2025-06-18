@@ -334,106 +334,6 @@
         "button_text_color": ""
       }
     },
-    "revealed_image_on_scroll_cL6dRV": {
-      "type": "revealed-image-on-scroll",
-      "disabled": true,
-      "name": "Revealed image on scroll",
-      "settings": {
-        "image": "shopify://shop_images/Design_sans_titre_4.png",
-        "subheading": "",
-        "title": "",
-        "background": "",
-        "text_color_inside": "#ffffff",
-        "text_color_outside": "#000000"
-      }
-    },
-    "media_grid_y7KmVd": {
-      "type": "media-grid",
-      "blocks": {
-        "image_AyVzrW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1785d223-ebe4-4b54-933b-358b1eb74be0.jpg",
-            "title": "",
-            "heading_tag": "h6",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_WyB3qC": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Ajouterunsous-titre_4.png",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_yDqNaf": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/5df7338a-c316-436b-baf4-5fc29de0ee8f.jpg",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_AyVzrW",
-        "image_WyB3qC",
-        "image_yDqNaf"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -543,78 +443,17 @@
         "input_text_color": ""
       }
     },
-    "rich_text_wWgVmA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hgJd4E": {
-          "type": "heading",
-          "settings": {
-            "text": "Bronzé Sans Soleil, C’est Possible.",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_RB8px4": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hgJd4E",
-        "richtext_RB8px4"
-      ],
-      "name": "Rich text",
+    "revealed_image_on_scroll_cL6dRV": {
+      "type": "revealed-image-on-scroll",
+      "disabled": true,
+      "name": "Revealed image on scroll",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "image": "shopify://shop_images/Design_sans_titre_4.png",
+        "subheading": "",
+        "title": "",
         "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "slideshow_icAYRp": {
-      "type": "slideshow",
-      "blocks": {
-        "image_htYWH3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_5.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_htYWH3"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#000000"
       }
     },
     "accordion_content_gL6DY7": {
@@ -665,6 +504,208 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "slideshow_tBUBqD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EejjyY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_EejjyY"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_wWgVmA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hgJd4E": {
+          "type": "heading",
+          "settings": {
+            "text": "Bronzé Sans Soleil, C’est Possible.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_RB8px4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgJd4E",
+        "richtext_RB8px4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_y7KmVd": {
+      "type": "media-grid",
+      "blocks": {
+        "image_AyVzrW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1785d223-ebe4-4b54-933b-358b1eb74be0.jpg",
+            "title": "",
+            "heading_tag": "h6",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_WyB3qC": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Ajouterunsous-titre_4.png",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_yDqNaf": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/5df7338a-c316-436b-baf4-5fc29de0ee8f.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_AyVzrW",
+        "image_WyB3qC",
+        "image_yDqNaf"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "slideshow_icAYRp": {
+      "type": "slideshow",
+      "blocks": {
+        "image_htYWH3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_htYWH3"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
       }
     },
     "image_link_blocks_i7mRhJ": {
@@ -743,6 +784,7 @@
     "main",
     "revealed_image_on_scroll_cL6dRV",
     "accordion_content_gL6DY7",
+    "slideshow_tBUBqD",
     "rich_text_wWgVmA",
     "media_grid_y7KmVd",
     "slideshow_icAYRp",
