@@ -376,56 +376,6 @@
         "background_gradient": ""
       }
     },
-    "accordion_content_gL6DY7": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_wVwUYE": {
-          "type": "item",
-          "settings": {
-            "title": "En combien de temps voit-on les résultats ?",
-            "content": "<p>Généralement en 7 à 10 jours. Résultats optimaux sous 3 semaines.</p>"
-          }
-        },
-        "item_QrPVH6": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça remplace un autobronzant ?",
-            "content": "<p>Oui, mais en mieux : sans traces, sans odeur, et le bronzage vient de l’intérieur.</p>"
-          }
-        },
-        "item_irfMCP": {
-          "type": "item",
-          "settings": {
-            "title": "Guide d'utilisation",
-            "content": "<p>Prélevez 1 ml de sérum (6 gouttes) à l’aide de la pipette fournie<br/>Dissolvez 1ml de sérum dans un verre contenant 50 ml d’eau.<br/>Mélangez bien pour obtenir une solution homogène.<br/>Consommez lentement le mélange pour une absorption optimale.<br/>Astuce : Une utilisation régulière sur le long terme vous aidera à maintenir l’effet souhaité.<br/><br/>À conserver au réfrigérateur. Une fois ouvert, à consommer dans les 3 mois.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_wVwUYE",
-        "item_QrPVH6",
-        "item_irfMCP"
-      ],
-      "name": "Accordion content",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "image_link_blocks_i7mRhJ": {
       "type": "image-link-blocks",
       "blocks": {
@@ -489,6 +439,56 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "accordion_content_gL6DY7": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_wVwUYE": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps voit-on les résultats ?",
+            "content": "<p>Généralement en 7 à 10 jours. Résultats optimaux sous 3 semaines.</p>"
+          }
+        },
+        "item_QrPVH6": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça remplace un autobronzant ?",
+            "content": "<p>Oui, mais en mieux : sans traces, sans odeur, et le bronzage vient de l’intérieur.</p>"
+          }
+        },
+        "item_irfMCP": {
+          "type": "item",
+          "settings": {
+            "title": "Guide d'utilisation",
+            "content": "<p>Prélevez 1 ml de sérum (6 gouttes) à l’aide de la pipette fournie<br/>Dissolvez 1ml de sérum dans un verre contenant 50 ml d’eau.<br/>Mélangez bien pour obtenir une solution homogène.<br/>Consommez lentement le mélange pour une absorption optimale.<br/>Astuce : Une utilisation régulière sur le long terme vous aidera à maintenir l’effet souhaité.<br/><br/>À conserver au réfrigérateur. Une fois ouvert, à consommer dans les 3 mois.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_wVwUYE",
+        "item_QrPVH6",
+        "item_irfMCP"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -497,10 +497,10 @@
     "rich_text_UEiFwG",
     "revealed_image_on_scroll_cL6dRV",
     "media_grid_y7KmVd",
+    "image_link_blocks_i7mRhJ",
     "scrolling_text_jdqkMA",
     "main",
     "slideshow_icAYRp",
-    "accordion_content_gL6DY7",
-    "image_link_blocks_i7mRhJ"
+    "accordion_content_gL6DY7"
   ]
 }
