@@ -434,39 +434,6 @@
         "background_gradient": ""
       }
     },
-    "rich_text_wWgVmA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hgJd4E": {
-          "type": "heading",
-          "settings": {
-            "text": "Bronzé Sans Soleil, C’est Possible.",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_RB8px4": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hgJd4E",
-        "richtext_RB8px4"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -574,6 +541,39 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_wWgVmA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hgJd4E": {
+          "type": "heading",
+          "settings": {
+            "text": "Bronzé Sans Soleil, C’est Possible.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_RB8px4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgJd4E",
+        "richtext_RB8px4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "slideshow_icAYRp": {
@@ -740,12 +740,12 @@
     "scrolling_text_jdqkMA",
     "impact_text_cWm778",
     "impact_text_PGpty7",
-    "revealed_image_on_scroll_cL6dRV",
-    "media_grid_y7KmVd",
-    "rich_text_wWgVmA",
     "main",
-    "slideshow_icAYRp",
+    "revealed_image_on_scroll_cL6dRV",
     "accordion_content_gL6DY7",
+    "rich_text_wWgVmA",
+    "media_grid_y7KmVd",
+    "slideshow_icAYRp",
     "image_link_blocks_i7mRhJ"
   ]
 }
