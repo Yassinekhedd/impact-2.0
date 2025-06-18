@@ -159,6 +159,7 @@
         },
         "image_WyB3qC": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Ajouterunsous-titre_4.png",
             "title": "",
@@ -181,6 +182,7 @@
         },
         "image_yDqNaf": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/5df7338a-c316-436b-baf4-5fc29de0ee8f.jpg",
             "title": "",
