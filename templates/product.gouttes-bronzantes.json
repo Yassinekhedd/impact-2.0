@@ -209,6 +209,23 @@
         "lazy": true
       }
     },
+    "scrolling_text_eJTRFx": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉ 1 OFFERT !",
+        "text_size": "small",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "impact_text_PGpty7": {
       "type": "impact-text",
       "blocks": {
@@ -529,22 +546,6 @@
       }
     },
     "scrolling_text_jdqkMA": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "1 ACHETÉ 1 OFFERT !",
-        "text_size": "small",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "scrolling_text_eJTRFx": {
       "type": "scrolling-text",
       "name": "Scrolling text",
       "settings": {
