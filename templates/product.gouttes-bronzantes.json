@@ -54,8 +54,9 @@
       "type": "revealed-image-on-scroll",
       "name": "Revealed image on scroll",
       "settings": {
+        "image": "shopify://shop_images/Design_sans_titre_2.png",
         "subheading": "",
-        "title": "Reveal text on scroll",
+        "title": "",
         "background": "",
         "text_color_inside": "#ffffff",
         "text_color_outside": "#000000"
