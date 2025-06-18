@@ -291,7 +291,7 @@
         "text_size": "small",
         "text_style": "outline",
         "scrolling_mode": "auto",
-        "scrolling_speed": 10,
+        "scrolling_speed": 7,
         "background": "",
         "background_gradient": "",
         "text_color": "",
