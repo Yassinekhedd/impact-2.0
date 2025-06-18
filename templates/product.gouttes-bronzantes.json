@@ -85,6 +85,7 @@
     },
     "scrolling_text_eJTRFx": {
       "type": "scrolling-text",
+      "disabled": true,
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
