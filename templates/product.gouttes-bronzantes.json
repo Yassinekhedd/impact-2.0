@@ -245,6 +245,22 @@
         "button_text_color": ""
       }
     },
+    "scrolling_text_jdqkMA": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉ 1 OFFERT !",
+        "text_size": "small",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "impact_text_cWm778": {
       "type": "impact-text",
       "blocks": {
@@ -279,22 +295,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "scrolling_text_jdqkMA": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "1 ACHETÉ 1 OFFERT !",
-        "text_size": "small",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 7,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "impact_text_PGpty7": {
@@ -432,6 +432,39 @@
         "mobile_row_height": 150,
         "background": "",
         "background_gradient": ""
+      }
+    },
+    "rich_text_wWgVmA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hgJd4E": {
+          "type": "heading",
+          "settings": {
+            "text": "Bronzé Sans Soleil, C’est Possible.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_RB8px4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un sérum innovant qui active votre mélanine de l’intérieur.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgJd4E",
+        "richtext_RB8px4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "main": {
@@ -700,6 +733,7 @@
     "impact_text_PGpty7",
     "revealed_image_on_scroll_cL6dRV",
     "media_grid_y7KmVd",
+    "rich_text_wWgVmA",
     "main",
     "slideshow_icAYRp",
     "accordion_content_gL6DY7",
