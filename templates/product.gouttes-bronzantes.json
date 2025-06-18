@@ -107,7 +107,7 @@
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_6.png",
             "title": "",
-            "heading_tag": "h4",
+            "heading_tag": "h6",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
