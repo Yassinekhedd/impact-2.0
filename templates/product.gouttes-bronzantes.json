@@ -50,6 +50,39 @@
         "background_gradient": ""
       }
     },
+    "rich_text_UEiFwG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ifT9cU": {
+          "type": "heading",
+          "settings": {
+            "text": "Un teint hâlé naturellement, sans exposition au soleil",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_jYWT7i": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Découvrez le secret d’un bronzage progressif, uniforme et sans trace grâce à nos gouttes bronzantes VYNA, enrichies en actifs hydratants pour un éclat doré longue durée.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ifT9cU",
+        "richtext_jYWT7i"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_slider_ATB6AL": {
       "type": "video-slider",
       "blocks": {
@@ -141,24 +174,24 @@
         "card_border_color": "#000000",
         "card_shadow_color": "#000000",
         "card_overlay_color": "#000000",
-        "title_color": "#FFFFFF",
-        "stars_color": "#FFFFFF",
-        "action_color": "#FFFFFF",
-        "action_hover_color": "#FFFFFF",
-        "action_bg_color": "#FFFFFF",
-        "action_bg_hover_color": "#FFFFFF",
-        "action_border_color": "#FFFFFF",
-        "action_border_hover_color": "#FFFFFF",
-        "sound_icon_color": "#FFFFFF",
-        "sound_icon_hover_color": "#FFFFFF",
-        "sound_bg_color": "#FFFFFF",
-        "sound_bg_hover_color": "#FFFFFF",
-        "sound_border_color": "#FFFFFF",
-        "sound_border_hover_color": "#FFFFFF",
-        "arrow_color": "#FFFFFF",
+        "title_color": "#ffffff",
+        "stars_color": "#ffffff",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "sound_icon_color": "#ffffff",
+        "sound_icon_hover_color": "#ffffff",
+        "sound_bg_color": "#ffffff",
+        "sound_bg_hover_color": "#ffffff",
+        "sound_border_color": "#ffffff",
+        "sound_border_hover_color": "#ffffff",
+        "arrow_color": "#ffffff",
         "arrow_hover_color": "#434343",
         "arrow_bg_color": "#434343",
-        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#000000",
         "background_color": "#f0f0f0",
@@ -176,14 +209,86 @@
         "lazy": true
       }
     },
+    "impact_text_jUtnL3": {
+      "type": "impact-text",
+      "blocks": {
+        "item_NNG4rP": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "🌞 bronzes dès la 1ère semaine",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_NNG4rP"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "impact_text_cWm778": {
+      "type": "impact-text",
+      "blocks": {
+        "item_LhBfTn": {
+          "type": "item",
+          "settings": {
+            "title": "98%",
+            "subheading": "💖 adorent le goût",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_LhBfTn"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "impact_text_PGpty7": {
       "type": "impact-text",
       "blocks": {
         "item_B8UkKb": {
           "type": "item",
           "settings": {
-            "title": "98%",
-            "subheading": "Des clients satisfaits !",
+            "title": "95%",
+            "subheading": "🙌 l’utilisent sans soleil",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -210,39 +315,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "rich_text_UEiFwG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ifT9cU": {
-          "type": "heading",
-          "settings": {
-            "text": "Un teint hâlé naturellement, sans exposition au soleil",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_jYWT7i": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Découvrez le secret d’un bronzage progressif, uniforme et sans trace grâce à nos gouttes bronzantes VYNA, enrichies en actifs hydratants pour un éclat doré longue durée.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ifT9cU",
-        "richtext_jYWT7i"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "revealed_image_on_scroll_cL6dRV": {
@@ -621,6 +693,8 @@
     "slideshow_GzWUgj",
     "rich_text_UEiFwG",
     "video_slider_ATB6AL",
+    "impact_text_jUtnL3",
+    "impact_text_cWm778",
     "impact_text_PGpty7",
     "revealed_image_on_scroll_cL6dRV",
     "media_grid_y7KmVd",
