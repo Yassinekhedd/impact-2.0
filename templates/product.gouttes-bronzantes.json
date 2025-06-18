@@ -253,7 +253,7 @@
         "text": "1 ACHETÉ 1 OFFERT !",
         "text_size": "small",
         "text_style": "outline",
-        "scrolling_mode": "scroll",
+        "scrolling_mode": "auto",
         "scrolling_speed": 5,
         "background": "",
         "background_gradient": "",
