@@ -164,71 +164,6 @@
         "background_gradient": ""
       }
     },
-    "image_link_blocks_i7mRhJ": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_3WRxK6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/8159c116-f053-490e-b2d4-9f4afc7546ef.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_gRiJ63": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1785d223-ebe4-4b54-933b-358b1eb74be0.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_jerikY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/aafd23b8-dc16-41f8-b235-26784bbc2384.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_3WRxK6",
-        "item_gRiJ63",
-        "item_jerikY"
-      ],
-      "disabled": true,
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "impact_text_PGpty7": {
       "type": "impact-text",
       "blocks": {
@@ -365,6 +300,70 @@
         "input_text_color": ""
       }
     },
+    "image_link_blocks_i7mRhJ": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_3WRxK6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8159c116-f053-490e-b2d4-9f4afc7546ef.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_gRiJ63": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1785d223-ebe4-4b54-933b-358b1eb74be0.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_jerikY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/aafd23b8-dc16-41f8-b235-26784bbc2384.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_3WRxK6",
+        "item_gRiJ63",
+        "item_jerikY"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "1629746450643786911": {
       "type": "areviews-section",
       "settings": {
@@ -377,12 +376,12 @@
   },
   "order": [
     "slideshow_GzWUgj",
+    "impact_text_PGpty7",
     "scrolling_text_jdqkMA",
     "revealed_image_on_scroll_cL6dRV",
     "media_grid_y7KmVd",
-    "image_link_blocks_i7mRhJ",
-    "impact_text_PGpty7",
     "main",
+    "image_link_blocks_i7mRhJ",
     "1629746450643786911"
   ]
 }
