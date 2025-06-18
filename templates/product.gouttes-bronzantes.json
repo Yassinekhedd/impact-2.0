@@ -83,6 +83,22 @@
         "text_color": ""
       }
     },
+    "scrolling_text_eJTRFx": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉ 1 OFFERT !",
+        "text_size": "xsmall",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "video_slider_ATB6AL": {
       "type": "video-slider",
       "blocks": {
@@ -207,23 +223,6 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "scrolling_text_eJTRFx": {
-      "type": "scrolling-text",
-      "disabled": true,
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "1 ACHETÉ 1 OFFERT !",
-        "text_size": "small",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "impact_text_PGpty7": {
@@ -793,8 +792,8 @@
   "order": [
     "slideshow_GzWUgj",
     "rich_text_UEiFwG",
-    "video_slider_ATB6AL",
     "scrolling_text_eJTRFx",
+    "video_slider_ATB6AL",
     "impact_text_PGpty7",
     "rich_text_wWgVmA",
     "main",
