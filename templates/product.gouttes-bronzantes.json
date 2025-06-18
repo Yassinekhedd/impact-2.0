@@ -221,7 +221,7 @@
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
-            "animate_impact_text_duration": 4
+            "animate_impact_text_duration": 2
           }
         }
       },
@@ -257,7 +257,7 @@
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
-            "animate_impact_text_duration": 4
+            "animate_impact_text_duration": 3
           }
         }
       },
