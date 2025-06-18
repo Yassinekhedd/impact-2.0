@@ -264,7 +264,6 @@
       "block_order": [
         "item_LhBfTn"
       ],
-      "disabled": true,
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -303,6 +302,7 @@
       "blocks": {
         "item_B8UkKb": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "95%",
             "subheading": "🙌 l’utilisent sans soleil",
@@ -695,8 +695,8 @@
     "rich_text_UEiFwG",
     "video_slider_ATB6AL",
     "impact_text_jUtnL3",
-    "impact_text_cWm778",
     "scrolling_text_jdqkMA",
+    "impact_text_cWm778",
     "impact_text_PGpty7",
     "revealed_image_on_scroll_cL6dRV",
     "media_grid_y7KmVd",
