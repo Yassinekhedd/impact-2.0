@@ -316,6 +316,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_eUiXLi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Caractéristiques du produit</title>\n    <style>\n        :root {\n            --text-color: #333;\n            --hover-bg-color: #f1f1f1;\n            --highlight-color: #000;\n            --transition-duration: 0.3s;\n            --font-family: 'Helvetica Neue', Arial, sans-serif;\n        }\n\n        body.bdy-a123 {\n            font-family: var(--font-family);\n            display: flex;\n            justify-content: flex-start;\n            align-items: flex-start;\n            height: 100vh;\n            margin: 0;\n            background: none;\n            padding: 20px;\n        }\n\n        .container-x987 {\n            width: 100%;\n            max-width: 600px;\n            display: flex;\n            flex-direction: column;\n            gap: 5px;\n        }\n\n        .item-z456 {\n            display: flex;\n            align-items: center;\n            padding: 5px 0;\n            border-radius: 8px;\n            transition: background-color var(--transition-duration) ease, transform var(--transition-duration) ease;\n            cursor: default;\n        }\n\n        .item-z456:hover {\n            background-color: var(--hover-bg-color);\n            transform: translateX(10px);\n        }\n\n        .icon-w321 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n            transition: filter var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .icon-w321 {\n            filter: brightness(0) invert(0);\n        }\n\n        .text-v654 {\n            font-size: 16px;\n            color: var(--text-color);\n            transition: color var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .text-v654 {\n            color: var(--highlight-color);\n        }\n\n        @media (max-width: 600px) {\n            .text-v654 {\n                font-size: 14px;\n            }\n        }\n    </style>\n</head>\n<body class=\"bdy-a123\">\n    <div class=\"container-x987\">\n        <div class=\"item-z456\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Icône Check\" class=\"icon-w321\">\n            <div class=\"text-v654\">Teint hâlé & naturel</div>\n        </div>\n        <div class=\"item-z456\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Icône Check\" class=\"icon-w321\">\n            <div class=\"text-v654\">Peau hydratée de l’intérieur</div>\n        </div>\n        <div class=\"item-z456\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Icône Check\" class=\"icon-w321\">\n            <div class=\"text-v654\">Formule 100% naturelle</div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -397,6 +403,7 @@
         "liquid_ULB7PT",
         "vendor",
         "title",
+        "liquid_eUiXLi",
         "badges",
         "price",
         "rating",
@@ -479,7 +486,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
