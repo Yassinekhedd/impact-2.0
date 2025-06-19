@@ -11,6 +11,81 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "testimonials_WyeTaL": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_z7TbRX": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/3e2c62b5-ee73-4a4a-88ac-27ca22e2839e.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Clara S.",
+            "title": "Consistance légère",
+            "content": "<p>L'été est le meilleur moment pour bronzer sur la plage, l'agent bronzant est génial !! !</p>"
+          }
+        },
+        "testimonial_3cTUph": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/d5002210-6991-492c-824e-b548ff67d5dd.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Efficacité: Rapide",
+            "content": "<p>l'effet est très bon, il est très confortable à utiliser et vous n'avez pas à vous soucier de vous faire brûler du soleil lorsque vous prenez du soleil</p>"
+          }
+        },
+        "testimonial_t9Tzwb": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/d988a97a-a1f0-49ec-908d-8aa915e6e648.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "mathlid A.",
+            "title": "Ingrédients naturels: PlusSensibilité de la peau: Taille okEfficacité: Rapide",
+            "content": "<p>J'ai eu ces informations sur un autre site et cela a très bien fonctionné, alors j'en ai eu ici ! le bronzage fonctionne vraiment mieux au soleil et on ne brûle pas ! !</p>"
+          }
+        },
+        "testimonial_n3Npf6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Efficacité: Rapide",
+            "content": "<p>Consistance légère, absorbe rapidement. Je ne peux pas dire si ça fonctionne, je l'ai utilisé pendant peu de temps.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_z7TbRX",
+        "testimonial_3cTUph",
+        "testimonial_t9Tzwb",
+        "testimonial_n3Npf6"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -85,81 +160,6 @@
         "text_color": ""
       }
     },
-    "testimonials_WyeTaL": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_z7TbRX": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/3e2c62b5-ee73-4a4a-88ac-27ca22e2839e.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Clara S.",
-            "title": "Consistance légère",
-            "content": "<p>L'été est le meilleur moment pour bronzer sur la plage, l'agent bronzant est génial !! !</p>"
-          }
-        },
-        "testimonial_3cTUph": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/d5002210-6991-492c-824e-b548ff67d5dd.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Efficacité: Rapide",
-            "content": "<p>l'effet est très bon, il est très confortable à utiliser et vous n'avez pas à vous soucier de vous faire brûler du soleil lorsque vous prenez du soleil</p>"
-          }
-        },
-        "testimonial_t9Tzwb": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/d988a97a-a1f0-49ec-908d-8aa915e6e648.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "mathlid A.",
-            "title": "Ingrédients naturels: PlusSensibilité de la peau: Taille okEfficacité: Rapide",
-            "content": "<p>J'ai eu ces informations sur un autre site et cela a très bien fonctionné, alors j'en ai eu ici ! le bronzage fonctionne vraiment mieux au soleil et on ne brûle pas ! !</p>"
-          }
-        },
-        "testimonial_n3Npf6": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Efficacité: Rapide",
-            "content": "<p>Consistance légère, absorbe rapidement. Je ne peux pas dire si ça fonctionne, je l'ai utilisé pendant peu de temps.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_z7TbRX",
-        "testimonial_3cTUph",
-        "testimonial_t9Tzwb",
-        "testimonial_n3Npf6"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Avis",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -204,8 +204,8 @@
     }
   },
   "order": [
-    "text-with-icons",
     "testimonials_WyeTaL",
+    "text-with-icons",
     "footer"
   ]
 }

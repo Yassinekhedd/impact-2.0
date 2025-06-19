@@ -58,7 +58,7 @@
           "settings": {
             "text": "Un teint hâlé naturellement, sans exposition au soleil",
             "heading_tag": "h3",
-            "text_color": "",
+            "text_color": "#000000",
             "gradient": ""
           }
         },
@@ -445,20 +445,54 @@
         "input_text_color": ""
       }
     },
-    "scrolling_text_jdqkMA": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
+    "accordion_content_gL6DY7": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_wVwUYE": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps voit-on les résultats ?",
+            "content": "<p>Généralement en 7 à 10 jours. Résultats optimaux sous 3 semaines.</p>"
+          }
+        },
+        "item_QrPVH6": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça remplace un autobronzant ?",
+            "content": "<p>Oui, mais en mieux : sans traces, sans odeur, et le bronzage vient de l’intérieur.</p>"
+          }
+        },
+        "item_irfMCP": {
+          "type": "item",
+          "settings": {
+            "title": "Guide d'utilisation",
+            "content": "<p>Prélevez 1 ml de sérum (6 gouttes) à l’aide de la pipette fournie<br/>Dissolvez 1ml de sérum dans un verre contenant 50 ml d’eau.<br/>Mélangez bien pour obtenir une solution homogène.<br/>Consommez lentement le mélange pour une absorption optimale.<br/>Astuce : Une utilisation régulière sur le long terme vous aidera à maintenir l’effet souhaité.<br/><br/>À conserver au réfrigérateur. Une fois ouvert, à consommer dans les 3 mois.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_wVwUYE",
+        "item_QrPVH6",
+        "item_irfMCP"
+      ],
+      "name": "Accordion content",
       "settings": {
         "full_width": true,
-        "text": "1 ACHETÉ 1 OFFERT !",
-        "text_size": "small",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": ""
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "revealed_image_on_scroll_cL6dRV": {
@@ -513,56 +547,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
-      }
-    },
-    "accordion_content_gL6DY7": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_wVwUYE": {
-          "type": "item",
-          "settings": {
-            "title": "En combien de temps voit-on les résultats ?",
-            "content": "<p>Généralement en 7 à 10 jours. Résultats optimaux sous 3 semaines.</p>"
-          }
-        },
-        "item_QrPVH6": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça remplace un autobronzant ?",
-            "content": "<p>Oui, mais en mieux : sans traces, sans odeur, et le bronzage vient de l’intérieur.</p>"
-          }
-        },
-        "item_irfMCP": {
-          "type": "item",
-          "settings": {
-            "title": "Guide d'utilisation",
-            "content": "<p>Prélevez 1 ml de sérum (6 gouttes) à l’aide de la pipette fournie<br/>Dissolvez 1ml de sérum dans un verre contenant 50 ml d’eau.<br/>Mélangez bien pour obtenir une solution homogène.<br/>Consommez lentement le mélange pour une absorption optimale.<br/>Astuce : Une utilisation régulière sur le long terme vous aidera à maintenir l’effet souhaité.<br/><br/>À conserver au réfrigérateur. Une fois ouvert, à consommer dans les 3 mois.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_wVwUYE",
-        "item_QrPVH6",
-        "item_irfMCP"
-      ],
-      "name": "Accordion content",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     },
     "media_grid_y7KmVd": {
@@ -652,78 +636,6 @@
         "background_gradient": ""
       }
     },
-    "impact_text_jUtnL3": {
-      "type": "impact-text",
-      "blocks": {
-        "item_NNG4rP": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "🌞 bronzes dès la 1ère semaine",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_NNG4rP"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.6,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "impact_text_cWm778": {
-      "type": "impact-text",
-      "blocks": {
-        "item_LhBfTn": {
-          "type": "item",
-          "settings": {
-            "title": "98%",
-            "subheading": "💖 adorent le goût",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 3
-          }
-        }
-      },
-      "block_order": [
-        "item_LhBfTn"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.6,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "slideshow_icAYRp": {
       "type": "slideshow",
       "blocks": {
@@ -764,6 +676,42 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "impact_text_jUtnL3": {
+      "type": "impact-text",
+      "blocks": {
+        "item_NNG4rP": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "🌞 bronzes dès la 1ère semaine",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_NNG4rP"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image_link_blocks_i7mRhJ": {
@@ -829,6 +777,59 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "impact_text_cWm778": {
+      "type": "impact-text",
+      "blocks": {
+        "item_LhBfTn": {
+          "type": "item",
+          "settings": {
+            "title": "98%",
+            "subheading": "💖 adorent le goût",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 3
+          }
+        }
+      },
+      "block_order": [
+        "item_LhBfTn"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "scrolling_text_jdqkMA": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "1 ACHETÉ 1 OFFERT !",
+        "text_size": "small",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
     }
   },
   "order": [
@@ -839,14 +840,14 @@
     "impact_text_PGpty7",
     "rich_text_wWgVmA",
     "main",
-    "scrolling_text_jdqkMA",
+    "accordion_content_gL6DY7",
     "revealed_image_on_scroll_cL6dRV",
     "slideshow_tBUBqD",
-    "accordion_content_gL6DY7",
     "media_grid_y7KmVd",
-    "impact_text_jUtnL3",
-    "impact_text_cWm778",
     "slideshow_icAYRp",
-    "image_link_blocks_i7mRhJ"
+    "impact_text_jUtnL3",
+    "image_link_blocks_i7mRhJ",
+    "impact_text_cWm778",
+    "scrolling_text_jdqkMA"
   ]
 }
