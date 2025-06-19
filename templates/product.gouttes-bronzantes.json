@@ -513,6 +513,7 @@
       "blocks": {
         "image_EejjyY": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_5.png",
             "content_max_width": 780,
@@ -547,6 +548,42 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "impact_text_jUtnL3": {
+      "type": "impact-text",
+      "blocks": {
+        "item_NNG4rP": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "🌞 bronzes dès la 1ère semaine",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_NNG4rP"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.6,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "media_grid_y7KmVd": {
@@ -678,42 +715,6 @@
         "background_gradient": ""
       }
     },
-    "impact_text_jUtnL3": {
-      "type": "impact-text",
-      "blocks": {
-        "item_NNG4rP": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "🌞 bronzes dès la 1ère semaine",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_NNG4rP"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.6,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "image_link_blocks_i7mRhJ": {
       "type": "image-link-blocks",
       "blocks": {
@@ -762,6 +763,7 @@
         "item_gRiJ63",
         "item_jerikY"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
@@ -797,6 +799,7 @@
       "block_order": [
         "item_LhBfTn"
       ],
+      "disabled": true,
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -843,9 +846,9 @@
     "accordion_content_gL6DY7",
     "revealed_image_on_scroll_cL6dRV",
     "slideshow_tBUBqD",
+    "impact_text_jUtnL3",
     "media_grid_y7KmVd",
     "slideshow_icAYRp",
-    "impact_text_jUtnL3",
     "image_link_blocks_i7mRhJ",
     "impact_text_cWm778",
     "scrolling_text_jdqkMA"
